@@ -12,3 +12,12 @@ git clone https://github.com/Mykhailo-lakus/Mykhailo_Lakus_IK-31.git
 ```sh
 git log
 ``` 
+
+### 4. Я створив нову гілку за допопомогою команди:
+```sh
+git branch slave
+``` 
+### і переключився на цю гілку за допопомогою команди:
+```sh
+git checkout slave
+``` 
