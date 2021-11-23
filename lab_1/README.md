@@ -35,3 +35,6 @@ git checkout slave
 ```sh
 git pull
 ```
+
+### 10. Вставлення зображення в README.md файл :
+![alt text](https://github.com/Mykhailo-lakus/Mykhailo_Lakus_IK-31/blob/master/lab_1/kitty.jpg) 
