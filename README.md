@@ -13,6 +13,7 @@ git clone https://github.com/Mykhailo-lakus/Mykhailo_Lakus_IK-31.git
 git log
 ``` 
 
+
 ### 4. Я створив нову гілку за допопомогою команди:
 ```sh
 git branch slave
@@ -21,3 +22,7 @@ git branch slave
 ```sh
 git checkout slave
 ``` 
+
+### 5. Зміни в файлі README.md на гілці master не відображаються томущо попередній коміт виконувався на гілку slave.
+
+### 6. ~
