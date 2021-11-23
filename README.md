@@ -12,3 +12,6 @@ git clone https://github.com/Mykhailo-lakus/Mykhailo_Lakus_IK-31.git
 ```sh
 git log
 ``` 
+
+
+### 5. Зміни в файлі README.md на гілці master не відображаються томущо попередній коміт виконувався на гілку slave.
