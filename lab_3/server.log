@@ -1,0 +1,21 @@
+INFO 2021-12-10 19:12:37,643 root : Сервер доступний. Час на сервері: Time: 17:12:37   Data: 2021/12/12/10/21
+INFO 2021-12-10 19:12:37,644 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-12-10 19:12:37,644 root : Відповідь сервера місти наступні поля:
+INFO 2021-12-10 19:12:37,644 root : Ключ: date, Значення: Time: 17:12:37   Data: 2021/12/12/10/21
+INFO 2021-12-10 19:12:37,644 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-12-10 19:12:37,644 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: mishik-VirtualBox;   Release: 5.11.0-40-generic;   Version: #44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021;   Indentificator:x86_64
+INFO 2021-12-10 19:12:37,644 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 127.0.0.1
+INFO 2021-12-10 19:14:10,021 root : Сервер доступний. Час на сервері: Time: 17:14:10   Data: 2021/14/12/10/21
+INFO 2021-12-10 19:14:10,022 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-12-10 19:14:10,022 root : Відповідь сервера місти наступні поля:
+INFO 2021-12-10 19:14:10,022 root : Ключ: date, Значення: Time: 17:14:10   Data: 2021/14/12/10/21
+INFO 2021-12-10 19:14:10,022 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-12-10 19:14:10,022 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: mishik-VirtualBox;   Release: 5.11.0-40-generic;   Version: #44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021;   Indentificator:x86_64
+INFO 2021-12-10 19:14:10,022 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 127.0.0.1
+INFO 2021-12-10 19:18:37,525 root : Сервер доступний. Час на сервері: Time: 17:18:37   Data: 2021/18/12/10/21
+INFO 2021-12-10 19:18:37,525 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-12-10 19:18:37,525 root : Відповідь сервера місти наступні поля:
+INFO 2021-12-10 19:18:37,525 root : Ключ: date, Значення: Time: 17:18:37   Data: 2021/18/12/10/21
+INFO 2021-12-10 19:18:37,525 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-12-10 19:18:37,526 root : Ключ: server_info, Значення: Name_OS: Linux;   Name_Node: mishik-VirtualBox;   Release: 5.11.0-40-generic;   Version: #44~20.04.2-Ubuntu SMP Tue Oct 26 18:07:44 UTC 2021;   Indentificator:x86_64
+INFO 2021-12-10 19:18:37,526 root : Ключ: client_info, Значення: Browser: python-requests/2.26.0;   IP: 127.0.0.1
